@@ -47,9 +47,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tenor+Sans&size=40&pause=50000&color=0223E6&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Let’s+network" alt="Typing SVG" /></a><br />
   <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
   <a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
-  <a href="https://github.com/shankar-cse"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
-  <a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
-  <a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
+  <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
+  <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
+  <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -98,7 +98,7 @@
  <td>
   <div align="center">
   <b>📈 Contribution Graph</b>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=polyvexr&theme=react-dark"/>
 </div>
   </td>
 </tr>
@@ -107,7 +107,7 @@
 <details align="center">
   <summary><b>🔥 Current Streak</b></summary>
   <br/>
-  <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
+  <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=polyvexr&theme=github_dark"/>
 </details>
 </td>
 </tr>
@@ -116,7 +116,7 @@
 <details align="center">
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br/>
-  <img width="1000px" height="800px" src="https://github-profile-trophy-kannan.vercel.app/?username=shankar-cse&theme=algolia"/>
+  <img width="1000px" height="800px" src="https://github-profile-trophy-kannan.vercel.app/?username=polyvexr&theme=algolia"/>
 </details>
 </td>
 </tr>
@@ -125,7 +125,7 @@
 <details align="center">
   <summary><b>📊 Overall GitHub Stats</b></summary>
   <br/>
-  <img width="1000px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia"/>
+  <img width="1000px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=polyvexr&show_icons=true&theme=algolia"/>
 </details>
    </td>
 </tr>
