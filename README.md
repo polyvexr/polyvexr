@@ -19,12 +19,13 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=60&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="100" />
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 
 
 
@@ -35,9 +36,7 @@
 <table >
  <tr>
  <td>
-
   <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=polyvexr&theme=github_dark"/>
-
 </td>
 </tr>
   <tr>
@@ -66,6 +65,10 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
 </p>
 
+<div align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="100" />
+</div>
+
 <img align="center" width="1000px" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
 
@@ -84,11 +87,12 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+KNOW+YOU+LOVE+MY+PROFILE" alt="Typing SVG" /> </p>
 
 
-
 <p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+TO+MAKE+ME+HAPPY" alt="Typing SVG" /></a>  </p>
 
+
 <div align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="100" />
+<img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk">
 </div>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg"/>
