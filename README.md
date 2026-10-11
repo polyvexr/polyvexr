@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&height=40&lines=I'M+SHANKAR" alt="Typing SVG" /></a>
  <br/> <br/>
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
- <br/>
 </div>
 
 
@@ -16,27 +15,6 @@
 
 
 
-
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> -->
-
-
-
-
-
-<!-- ========================= CONNECT ========================= -->
-
-<p align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
-  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
-  <a href="mailto:polyvexr@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
-  <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
-  <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
-  <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
- <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=60&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
@@ -76,6 +54,17 @@
 </tr>
 </table>
 </div>
+
+<p align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
+  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/100/web.png"/></a>
+  <a href="mailto:polyvexr@gmail.com"><img src="https://img.icons8.com/bubbles/100/gmail.png"/></a>
+  <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/github.png"/></a>
+  <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/100/linkedin.png"/></a>
+  <a href="https://x.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/x.png"/></a>
+  <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/100/instagram.png"/></a>
+ <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
+</p>
 
 <img align="center" width="1000px" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
