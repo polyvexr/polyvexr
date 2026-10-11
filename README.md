@@ -1,46 +1,55 @@
 
+
 <div align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&height=40&lines=I'M+SHANKAR" alt="Typing SVG" /></a>
+ <br/> <br/>
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
+ <br/>
 </div>
 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <img width="1000px" src="https://github.com/demartini/demartini/blob/main/.github/media/code.webp" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<!-- ========================= INTRO SECTION ========================= -->
-<div align="center">
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=48&pause=5000&color=E60000&background=FFFFFF00&center=true&vCenter=true&width=300&lines=I'm+Shankar" alt="Typing SVG" /></a>
 
- <br/>
-  
-  <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="50" />
- 
 
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/> -->
 
-<img width="1000px" src="https://github.com/AdityaKumar28/AdityaKumar28/blob/master/animation.gif" width="480"/>
 
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 
 <!-- ========================= CONNECT ========================= -->
 
 <p align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
   <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
   <a href="mailto:polyvexr@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
   <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
   <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
   <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
+ <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ========================= TECH STACK ========================= -->
 <div align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&vCenter=true&center=true&repeat=false&width=1000&height=40&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
+ <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="50" />
+  
 </div>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+
 
 
 
@@ -68,6 +77,8 @@
 </tr>
 </table>
 </div>
+
+<img align="center" width="1000px" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 <!-- ========================= EXTRA VISUALS ========================= -->
 
 
