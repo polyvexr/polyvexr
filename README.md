@@ -39,7 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&vCenter=true&center=true&repeat=false&width=1000&height=40&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=60&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
  <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="50" />
   
 </div>
