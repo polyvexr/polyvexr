@@ -32,7 +32,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 <table >
  <tr>
  <td>
@@ -52,7 +52,7 @@
    </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 <p align="center">
  <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
