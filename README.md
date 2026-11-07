@@ -32,7 +32,7 @@
 
 
 
-<!-- <div align="center">
+<div align="center">
 <table >
  <tr>
  <td>
@@ -42,17 +42,18 @@
   <tr>
  <td>
 
-  <img width="1000px" src="https://github-readme-stats.vercel.app/api?username=polyvexr&show_icons=true&hide_border=true&&count_private=true&theme=algolia" />
+  <img width="1000px" src="https://github-stats-extended.vercel.app/api?username=polyvexr&show=all_time_contribs,reviews&show_icons=true&layout=compact&hide_border=true&theme=dark_github_repocard" />
+  
 
 </td>
 </tr>
    <tr>
  <td>
-  <img align="center" width="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polyvexr&layout=compact&hide_border=true&theme=algolia" />
+  <img align="center" width="1000px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=polyvexr&layout=compact&hide_progress=true&hide_border=true&theme=dark_github_repocard&hide=css,html&langs_count=10" />
    </td>
 </tr>
 </table>
-</div> -->
+</div>
 
 <p align="center">
  <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
