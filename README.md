@@ -128,7 +128,7 @@
   
   <!-- give me a follow -->
   <a href='#'>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+TO+MAKE+ME+HAPPY" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+BEFORE+I+BEG" alt="Typing SVG" />
   </a>
   
   <!-- chipmunk pic -->
