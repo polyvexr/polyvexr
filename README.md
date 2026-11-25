@@ -37,6 +37,11 @@
   <a href='#'>
    <img width="100" src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" />
   </a>
+
+  <!-- Jerry with headset  -->
+  <a href='#'>
+   <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="100" />
+  </a>
   
   <!--Line -->
   <a href='#'>
@@ -121,23 +126,26 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+KNOW+YOU+LOVE+MY+PROFILE" />
   </a> 
   
-  <!-- Jerry with headset  -->
-  <a href='#'>
-   <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="100" />
-  </a>
-
-  <!--buy me ko-fi link-->
-  <a href="https://ko-fi.com/polyvexr">
-   <img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJhFnkfhx9FskcE5j6Af5w9lB6LmBehkPxcUPJRtbvQ&s=10" />
-  </a>
-  
   <!-- Buy me a ko-fi -->
   <a href='#'>
    <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=BUY+ME+A+COFFEE....." />
   </a>
+  
+  <!-- Please-->
+  <a href='#'>
+   <img src="https://emojis.slackmojis.com/emojis/images/1623389385/44383/please.gif?1623389385" width="200" />
+  </a>
 
+  <a href='#'>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=Click+👇" />
+  </a> 
   
+  <!--buy me ko-fi link-->
+  <a href="https://ko-fi.com/polyvexr">
+   <img width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJhFnkfhx9FskcE5j6Af5w9lB6LmBehkPxcUPJRtbvQ&s=10" />
+  </a>
   
+
   <!-- chipmunk pic -->
   <a href='#'>
   <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" >
