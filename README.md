@@ -1,111 +1,87 @@
-
-
+<!--======== OPENING =============-->
 <div align="center">
-<!-- Hi I'm Shankar -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&height=40&lines=I'M+SHANKAR" alt="Typing SVG" />
-</a>
  
- <br/> 
- <br/>
- 
- <!-- Winking Emoji -->
- <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
+  <!-- HEY I'm SHANKAR TEXT -->
+   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=&color=F7F7F7&center=true&vCenter=true&repeat=false&height=40&lines=HEY+I'M+SHANKAR"/>
+   
+   <br/>
+   
+  <!-- Winking Emoji -->
+   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
 
- 
-</div>
+  <!--Line -->
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+  <!-- Laptop Video -->
+   <img width="1000px" src="https://github.com/demartini/demartini/blob/main/.github/media/code.webp" />
 
-<!--Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<!-- Laptop Video -->
-<img width="1000px" src="https://github.com/demartini/demartini/blob/main/.github/media/code.webp" />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  <!--Line -->
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+  <!-- I Speak Fluent Terminal -->
+   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=60&lines=I+speak+fluent+terminal.+Clicking+is+optional." />
 
+  <!-- Rolling Cat -->
+   <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="100" />
 
+  <!--Line -->
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-<div align="center">
- <!-- I Speak Fluent Terminal -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=60&lines=I+speak+fluent+terminal.+Clicking+is+optional." alt="Typing SVG" /></a>
- <!-- Rolling Cat -->
- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="100" />
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
+  <table >
+    <tr>
+      <td>
+          <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=polyvexr&theme=github_dark"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <img width="1000px" src="https://trophy.ryglcloud.net/?username=polyvexr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage&title=Commits&title=PullRequest&title=Stars&title=Reviews&title=Experience&title=Issues&title=Followers" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <img width="1000px" src="https://github-stats-extended.vercel.app/api?username=polyvexr&show=all_time_contribs,reviews&show_icons=true&layout=compact&hide_border=true&theme=dark_github_repocard" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=polyvexr&bg_color=000000&color=FFFFFF&title_color=FFFFFF&line=7AA2F7&point=BB9AF7&area_color=1A1B27&area=true&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <img align="center" width="1000px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=polyvexr&layout=compact&hide_progress=true&hide_border=true&theme=dark_github_repocard&hide=css,html&langs_count=10" />
+      </td>
+    </tr>
+  </table>
 
+  <div width="1000px">
+      <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
+      <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/100/web.png"/></a>
+      <a href="mailto:polyvexr@gmail.com"><img src="https://img.icons8.com/bubbles/100/gmail.png"/></a>
+      <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/github.png"/></a>
+      <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/100/linkedin.png"/></a>
+      <a href="https://x.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/x.png"/></a>
+      <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/100/instagram.png"/></a>
+      <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
+ </div>
 
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="100" />
 
-<div align="center">
-<table >
- <tr>
- <td>
-  <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=polyvexr&theme=github_dark"/>
-</td>
-</tr>
- 
-  <tr>
- <td>
-  <img width="1000px" src="https://trophy.ryglcloud.net/?username=polyvexr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage&title=Commits&title=PullRequest&title=Stars&title=Reviews&title=Experience&title=Issues&title=Followers" />
-</td>
-</tr>
+  <img width="1000px" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
 
-  <tr>
- <td>
-  <img width="1000px" src="https://github-stats-extended.vercel.app/api?username=polyvexr&show=all_time_contribs,reviews&show_icons=true&layout=compact&hide_border=true&theme=dark_github_repocard" />
-</td>
-</tr>
- <tr>
- <td>
-   <img width="1000px" src="https://github-readme-activity-graph.vercel.app/graph?username=polyvexr&bg_color=000000&color=FFFFFF&title_color=FFFFFF&line=7AA2F7&point=BB9AF7&area_color=1A1B27&area=true&hide_border=true" />
-</td>
-</tr>
-  <tr>
- <td>
-<img align="center" width="1000px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=polyvexr&layout=compact&hide_progress=true&hide_border=true&theme=dark_github_repocard&hide=css,html&langs_count=10" />
-   </td>
-</tr>
-</table>
-</div>
+  <img width="1000px" src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg"/>
 
-<p align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
-  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/100/web.png"/></a>
-  <a href="mailto:polyvexr@gmail.com"><img src="https://img.icons8.com/bubbles/100/gmail.png"/></a>
-  <a href="https://github.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/github.png"/></a>
-  <a href="https://linkedin.com/in/polyvexr"><img src="https://img.icons8.com/bubbles/100/linkedin.png"/></a>
-  <a href="https://x.com/polyvexr"><img src="https://img.icons8.com/bubbles/100/x.png"/></a>
-  <a href="https://instagram.com/ployvexr"><img src="https://img.icons8.com/bubbles/100/instagram.png"/></a>
- <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="100"/>
-</p>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="100" />
 
-<div align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="100" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+KNOW+YOU+LOVE+MY+PROFILE" alt="Typing SVG" />
 
-<img align="center" width="1000px" alt="GIF" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+TO+MAKE+ME+HAPPY" alt="Typing SVG" />
 
-
-
-
-<p align="center">
-  <img width="1000px" src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" width="480"/>
-</p>
-
-
-&nbsp;<div align="center">
- <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="100" />
-  [![Last.fm](https://novatorem.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff")](https://novatorem.vercel.app/redirect)
-</div>
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=I+KNOW+YOU+LOVE+MY+PROFILE" alt="Typing SVG" /> </p>
-
-
-<p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+TO+MAKE+ME+HAPPY" alt="Typing SVG" /></a>  </p>
-
-
-<div align="center">
 <img src="https://github.com/user-attachments/assets/1a01b5ae-dcd8-48f1-a55a-c758caceb524" alt="chipmunk">
-</div>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg"/>
+
+
+</div>
