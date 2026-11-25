@@ -125,11 +125,18 @@
   <a href='#'>
    <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="100" />
   </a>
-  
-  <!-- give me a follow -->
-  <a href='#'>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=GIVE+ME+A+FOLLOW+BEFORE+I+BEG" alt="Typing SVG" />
+
+  <!--buy me ko-fi link-->
+  <a href="https://ko-fi.com/polyvexr">
+   <img width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJhFnkfhx9FskcE5j6Af5w9lB6LmBehkPxcUPJRtbvQ&s=10" />
   </a>
+  
+  <!-- Buy me a ko-fi -->
+  <a href='#'>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Isometra&size=30&duration=1&pause=1000&color=F7F7F7&center=true&repeat=false&width=1000&height=100&lines=BUY+ME+A+COFFEE....." />
+  </a>
+
+  
   
   <!-- chipmunk pic -->
   <a href='#'>
